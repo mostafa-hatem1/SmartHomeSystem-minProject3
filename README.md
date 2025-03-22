@@ -43,5 +43,6 @@ Design and implement a smart home system that automates lighting and fan speed c
 - **Portable**: Can be adapted to different hardware configurations.
 - **Configurable**: Partially configurable for different requirements.
 
-
+## Proteus Simulation
+A Proteus simulation file is included in the repository to help you visualize and test the system's functionality before implementing it on actual hardware.
 
